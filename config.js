@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version13');
+console.log('esto se supone que tambien lo cambia el tio');
